@@ -10,7 +10,7 @@ As backend system. It expose three API(s) as following:
 * Get&nbsp;&nbsp;&nbsp;&nbsp; api/v1/phones/{customerId}  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Find all phones for a customer
 * Patch&nbsp; api/v1/phones/{phoneNumber}    &nbsp;&nbsp;&nbsp; Update an existing phone for active/deactive
 
-After application started up, more detail of API documentation can be found ref: http://localhost:8080/swagger-ui/index.html
+After application started up, more detail of API documentation can be found ref: http://localhost:8080/swagger-ui.html
 ### Notes: 
 
 Due to time constrains. this is just quick solution.
