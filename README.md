@@ -15,7 +15,7 @@ After application started up, more detail of API documentation can be found ref:
 
 Due to time constrains. this is just quick solution.
 
-This service can be further extend to use CQRS/Event souring pattern to build on top of NoSQL database eg. MongoDB to get better performance.
+This service can be further extend to use CQRS/Event sourcing pattern to build on top of NoSQL database eg. MongoDB to get better performance.
 
 Also assuming security is out of scope for this, those things will be handled by upper level mechanism. eg. API Gateway
 
